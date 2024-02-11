@@ -1,1 +1,1 @@
-# My Personal [website](https://S-Omkar-K.github.io/)
+# My Personal [website](https://S-Omkar-K.github.io/portfolio)
