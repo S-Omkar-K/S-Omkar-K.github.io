@@ -325,6 +325,12 @@ blockquote {
 	color: var(--global-text-color)
 }
 
+
+.arrow {
+    font-size: 16px; /* Adjust the font size as needed */
+    margin: 0 5px;  /* Adjust the spacing around the arrow */
+  }
+
 .social {
 	text-align: center
 }
@@ -849,5 +855,7 @@ d-appendix a.footnote-backlink:hover {
 		grid-column: none
 	}
 }
+
+
 
 /*# sourceMappingURL=main.css.map */
